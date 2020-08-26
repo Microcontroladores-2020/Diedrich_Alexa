@@ -29,15 +29,15 @@ Dentro da subdivisão desse repositorio trataremos de:
 
 Inicialmente se deve criar uma conta de desenvolvimento na plataforma da Amazon chamada Alexa Voice Service (AVS).
 
-Vá em console e adicione um novo projeto:
+- Vá em console e adicione um novo projeto:
 <p align="center">
-  <img src = 'Docs/NovoProjetoAmazon.PNG' width=100 />
+  <img src = 'Docs/NovoProjetoAmazon.PNG' width=1000 />
 </p>
 
-Preencha todo o forumlário com as especificações do projeto e ao final você devera ter:
-* Product Name
-* Product ID
-* Amazon ID
+* Preencha todo o forumlário com as especificações do projeto e ao final você deverá ter:
+  * Product Name
+  * Product ID
+  * Amazon ID
 
 Esses dados serão utilizados em etapas posteriores do projeto.
 
