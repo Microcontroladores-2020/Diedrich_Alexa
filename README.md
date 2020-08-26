@@ -47,3 +47,7 @@ Esses dados serão utilizados em etapas posteriores do projeto.
 
 ### Comunicação entre placa e Amazon API (Parte 2)
 
+>**Diagrama de Blocos dos Periféricos e Hardware**
+<p align="center">
+  <img src = 'Docs/DiagramaDeBlocos.png' width=1000 />
+</p>
