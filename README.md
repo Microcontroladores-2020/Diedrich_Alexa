@@ -30,6 +30,10 @@ Dentro da subdivisão desse repositorio trataremos de:
 
 ### Configuração do Ambiente com a Amazon (Parte 1)
 
+[Documentação Alexa Voice Service](https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/get-started-with-alexa-voice-service.html)
+
+[Página de console AVS](https://developer.amazon.com/alexa/console/avs/products)
+
 Inicialmente se deve criar uma conta de desenvolvimento na plataforma da Amazon chamada Alexa Voice Service (AVS).
 
 - Vá em console e adicione um novo projeto:
