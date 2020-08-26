@@ -18,9 +18,9 @@ Dado essa introdução sobre assistentes virtuais e o dispositivo Echo da Amazon
 ### Etapas do projeto
 
 Devido a complexidade do projeto o trabalho foi dividido e 3 partes:
-* Criação de ambiente
+* [Criação de ambiente](https://github.com/Microcontroladores-2020/Mapurunga_Alexa)
 * Comunicação com a Nuvem
-* Rotina
+* [Rotina](https://github.com/Microcontroladores-2020/Victoria_Alexa)
 
 Neste repositorio será tratado a 2ª parte.
 
