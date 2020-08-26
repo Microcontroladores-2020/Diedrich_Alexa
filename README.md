@@ -12,9 +12,8 @@ Dado essa introdução sobre assistentes virtuais e o dispositivo Echo da Amazon
 
 >**Desenvolvimento de um projeto com Alexa embarcada no microcontrolador STM32F746, que possa além de se comunicar com o assistente virtual, também realizar comandos utilizando os periféricos da placa.**
 
-<p align="center">
-  <img src = 'Docs/AVS.PNG' width=800 />
-</p>
+<img src = 'Docs/AVS.png' />
+
 
 ### Etapas do projeto
 
