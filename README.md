@@ -31,7 +31,7 @@ Inicialmente se deve criar uma conta de desenvolvimento na plataforma da Amazon 
 
 Vá em console e adicione um novo projeto:
 <p align="center">
-  <img src = 'Docs/NovoProjetoAmazon.png' width=100 />
+  <img src = 'Docs/NovoProjetoAmazon.PNG' width=100 />
 </p>
 
 Preencha todo o forumlário com as especificações do projeto e ao final você devera ter:
